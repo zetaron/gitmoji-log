@@ -9,7 +9,7 @@
     "url": "https://github.com/aidminutes/anamnesisapp/issues"
   },
   "author": "Fabian Stegemann <fabian.stegemann@gmx.net>",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "scripts": {
     "lint": "standard",
     "test": "yarn lint"
