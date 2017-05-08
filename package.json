@@ -11,7 +11,8 @@
   "author": "Fabian Stegemann <fabian.stegemann@gmx.net>",
   "license": "GPLv3",
   "scripts": {
-    "lint": "standard"
+    "lint": "standard",
+    "test": "yarn lint"
   },
   "devDependencies": {
     "standard": "^10.0.2"
