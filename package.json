@@ -1,6 +1,6 @@
 {
   "name": "gitmoji-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "render replace emoji aliases in your git-log",
   "main": "index.js",
   "repository": "https://github.com/zetaron/gitmoji-log",
