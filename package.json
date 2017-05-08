@@ -10,6 +10,9 @@
   },
   "author": "Fabian Stegemann <fabian.stegemann@gmx.net>",
   "license": "GPL-3.0",
+  "bin": {
+    "gitmoji-log": "./index.js"
+  },
   "scripts": {
     "lint": "standard",
     "test": "yarn lint"
