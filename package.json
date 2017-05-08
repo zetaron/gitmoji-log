@@ -1,0 +1,19 @@
+{
+  "name": "gitmoji-log",
+  "version": "1.0.0",
+  "description": "render replace emoji aliases in your git-log",
+  "main": "index.js",
+  "repository": "https://github.com/zetaron/gitmoji-log",
+  "homepage": "https://github.com/zetaron/gitmoji-log",
+  "bugs": {
+    "url": "https://github.com/aidminutes/anamnesisapp/issues"
+  },
+  "author": "Fabian Stegemann <fabian.stegemann@gmx.net>",
+  "license": "GPLv3",
+  "scripts": {
+    "lint": "standard"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}

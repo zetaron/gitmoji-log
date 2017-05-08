@@ -1,0 +1,9 @@
+language: node_js
+deploy:
+  provider: npm
+  email: fabian.stegemann@gmx.net
+  api_key:
+    secure: i2jfJYSodp1jcLXRCBRHb+kiln/nf1nfeaJOFOfyN7afNV9Y4mK9QyImZ+zAd5bTpKJIe3ZMBO/Q95sjjDPl5rvhQcthm1lOwcFkrw6z6ZvzyFNE6kIT7KXO2PQsIFLrJE8JlKcm4bi0H/4x142m6UjFDE3J9RzeEmZOjdbvWHQW3paRft00S7yihUlpSA+vx1fxVEITqO/pQwyOut5s+eghvg0w8W3DPthKdoRrhpsg6uS9acf+rjoKof6BKQVQKdbU5zmpRgwv/cSWuuOMlbh9EZ07NLx9JXzR5+Z2uOiVgyB6yrTCawMWidLUyI9diLxb4Q3xPhQuuGgLlEn/zEC2ogDL8tc9//blRmReXjqreiE5fRb2ARiBRKiiKU8pJvz0EVdQtQ5fsLll5ArMhnFaBTuFekUzctXj+R5W1w2FnxWD+cUP9wPW/8n8anK2SatIoVeX+gbG2m5ynlBPB/qWsPAQlc1XOVDyXtRtHoqxzd4ajfhTXrlGDJ6k0C/tmqx4Dk1c3ByN+C5hvwdZ0loD9mS6PueY9PQ2oJoqLrlszZGopP9t2mf+Mto6HKvm/bLIVZClms2MOnSY6Gw4o/5HGrBZMHKUVCdONxtjvx8VINSgC4MrQcNhtfYagF0MJU2/8BmlRs54bNA5pu7qUyrhCv7MBRnSVQNhjxw30Mc=
+  on:
+    tags: true
+    repo: zetaron/gitmoji-log
